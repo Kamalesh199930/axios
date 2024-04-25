@@ -11,7 +11,7 @@ function App() {
     return (
         <div>
             <Get />
-            <hr />
+
             <Post />
             <hr />
             <Put />
