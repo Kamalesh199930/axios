@@ -11,13 +11,21 @@ function App() {
     return (
         <div>
             <Get />
+            <hr />
             <Post />
+            <hr />
             <Put />
+            <hr />
             <Delete />
+            <hr />
             <HandleError />
+            <hr />
             <AxiosInstance />
+            <hr />
             <AsyncAwait />
+            <hr />
             <UseAxios />
+            <hr />
         </div>
     );
 }
